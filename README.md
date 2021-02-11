@@ -36,13 +36,11 @@ In combination with other libraries, React helps in doing a wide variety of fron
 
 
 ### Introduction
-Developing your first full stack application with React and Spring Boot is fun.
 
-In this course, you will learn the basics of full stack development developing a Basic Todo Management Application using React, Spring Boot and Spring Security Frameworks.
 
-You will build the application step by step - in more than 50 steps. This course would be a perfect first step as an introduction to React and Full Stack Development.
+Build the application step by step - in more than 50 steps. This course would be a perfect first step as an introduction to React and Full Stack Development.
 
-You will be using React (Frontend View Framework), React Create App(To create React project), Various JavaScript Libraries (Axios, Formik, React Router), Spring Boot (REST API Framework), Spring (Dependency Management),  Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (JavaScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
+Using React (Frontend View Framework), React Create App(To create React project), Various JavaScript Libraries (Axios, Formik, React Router), Spring Boot (REST API Framework), Spring (Dependency Management),  Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (JavaScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 ### Learnings
 
